@@ -6,6 +6,9 @@ def nyc_pigeon_organizer(data)
     # binding.pry
     value.each do |key2, name1|
       names.each do |name2|
+        if !new_array[name]
+          
+        end
       end
     end
     new_array
